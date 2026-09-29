@@ -1,0 +1,400 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='4500' height='2300' viewBox='0 0 4500 2300' xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNzBmMDdhOC02MjM4LTRmYWUtOWM1MS1iOTA3ODQ2YmQ1N2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJ1uRerf/6JcXmGOSwfnF3QAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4MWY4ODQyOS1lNWY5LTRjOWUtOTBlOS1hYjUyYTY3ZDI5YWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoAh5Mt7KSGSCzNpmCtPothwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg7IP7MOtjNSmWHnByyn1iMakmpBGOhR3kNLtbAetGk1ekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAqBOKI9zFIfYmt4DmFDITMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBOvu5v/SWTKUcjA+PMcgpiW8f0uATeCNHdzzGSkYq+6WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ3MGYwN2E4LTYyMzgtNGZhZS05YzUxLWI5MDc4NDZiZDU3ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE4ZDk3MWM3LWU4NzctNDg4OS1iMjkwLTU4ZDY3MDg5Y2M3Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDsg/sw62M1KZYecHLKfWIxqSakEY6FHeQ0u1sB60aTV6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggARRXiQYIUUcN/KtPIylutuFMR/d2L5A8gy6YGC7vYzuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggRaKoRcIebolrGrwU/LJH5he2U99TlPL76FgLOOWmEWR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQO0q1b78wvZrKIENaz5eUJ+s4ftu1cZkckzsPPQVMMmffPd24Im7kHqN1pGzykyXe58nN73sj00YXt5r3tjpwWY=</c2pa:manifest></metadata><defs><marker id='ahc0392b' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='ah2c7fb8' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#2c7fb8'/></marker><marker id='ah1b7837' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#1b7837'/></marker><marker id='ah8e44ad' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#8e44ad'/></marker><marker id='ahd35400' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#d35400'/></marker><marker id='ah555555' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#555555'/></marker><marker id='ahb8860b' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#b8860b'/></marker><marker id='ah0e7c7b' markerWidth='10' markerHeight='10' refX='8' refY='5' orient='auto' markerUnits='userSpaceOnUse' viewBox='0 0 10 10'><path d='M0,0 L10,5 L0,10 z' fill='#0e7c7b'/></marker></defs><rect x='10' y='10' width='4480' height='2280' fill='white' stroke='#111' stroke-width='4'/>
+<text x='60' y='60' font-size='30' fill='#111' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">SIMT GPU  -  RTL Architecture &amp; Signal Connectivity  (top.sv, testbenches excluded)</text>
+<text x='60' y='88' font-size='14' fill='#444' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>4 lanes/warp | 4 warps | 32 vregs/lane | 32-bit | 5-stage pipeline IF-&gt;ID-&gt;EX-&gt;MEM-&gt;WB | round-robin scheduler | scoreboard RAW hazard stalls</text>
+<text x='60' y='120' font-size='13' fill='#444' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>top.sv ports:  input clk, input rst  -&gt; routed to every sequential module (warp_manager, IFU, scoreboard, decode, vector_register_file, execute, mem_stage, instruction_memory, data_memory)</text>
+<text x='60' y='140' font-size='13' fill='#444' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>[ clk/rst ] badge = sequential module.  writeback_stage and lane_alu/vector_alu are purely combinational.  All arrays are per-lane [0:WARP_SIZE-1] x LANE_WIDTH(32).</text>
+<rect x='30' y='340' width='3760' height='1900' rx='16' fill='#f7fafc' stroke='#2c3e50' stroke-width='4' stroke-dasharray='18 8'/>
+<text x='50' y='372' font-size='14' fill='#2c3e50' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">compute_unit  (u_compute_unit)  ports: clk, rst, instruction_memory_address, instruction_memory_data, memory_read_enable, memory_write_enable, memory_active_lane_mask, memory_address[], memory_store_data[], memory_load_data[]</text>
+<rect x='700' y='170' width='360' height='140' rx='10' fill='#e8f3fb' stroke='#2c7fb8' stroke-width='3'/>
+<text x='714' y='198' font-size='20' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">instruction_memory</text>
+<text x='714' y='218' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_instruction_memory  [top.sv]  [clk]</text>
+<text x='714' y='248' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>IMEM_DEPTH=256 x 32b, $readmemh(program.mem)</text>
+<text x='714' y='266' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>registered read, index = address&gt;&gt;2</text>
+<rect x='4100' y='430' width='340' height='420' rx='10' fill='#fdf0e3' stroke='#d35400' stroke-width='3'/>
+<text x='4114' y='458' font-size='20' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">data_memory</text>
+<text x='4114' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_data_memory  [top.sv]  [clk]</text>
+<text x='4114' y='508' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>DMEM_DEPTH=1024 x 32b</text>
+<text x='4114' y='526' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>$readmemh(data.mem)</text>
+<text x='4114' y='544' font-size='13' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Write: synchronous,</text>
+<text x='4114' y='565' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>per-lane gated by</text>
+<text x='4114' y='583' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>active_lane_mask</text>
+<text x='4114' y='601' font-size='13' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Read: asynchronous,</text>
+<text x='4114' y='622' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by read_enable only</text>
+<text x='4114' y='640' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>(else outputs 0)</text>
+<rect x='60' y='430' width='380' height='660' rx='10' fill='#fdecea' stroke='#c0392b' stroke-width='3'/>
+<text x='74' y='458' font-size='20' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">warp_manager</text>
+<text x='74' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_warp_manager  [clk/rst]</text>
+<text x='74' y='508' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Warp scheduler</text>
+<text x='74' y='529' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>round-robin pointer over NUM_WARPS</text>
+<text x='74' y='547' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>per-warp state: READY/STALL/DONE</text>
+<text x='74' y='565' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>per-warp PC + active_lane_mask</text>
+<text x='74' y='583' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_reason: DEPENDENCY/BRANCH/EXIT</text>
+<text x='74' y='601' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>issues 1 ready warp per cycle</text>
+<text x='74' y='619' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Loads from stall/commit inputs</text>
+<text x='74' y='640' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_* (from arbitration logic)</text>
+<text x='74' y='658' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>dependency_resolved -&gt; wake warp</text>
+<text x='74' y='676' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_commit -&gt; update warp PC</text>
+<text x='74' y='694' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_commit -&gt; warp DONE</text>
+<text x='74' y='712' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Unconnected debug outputs</text>
+<text x='74' y='733' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>warp_state[NUM_WARPS]</text>
+<text x='74' y='751' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>warp_program_counter[NUM_WARPS]</text>
+<rect x='700' y='430' width='360' height='660' rx='10' fill='#e8f3fb' stroke='#2c7fb8' stroke-width='3'/>
+<text x='714' y='458' font-size='20' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">instruction_fetch_unit</text>
+<text x='714' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>IFU.sv  u_ifu  [clk/rst]</text>
+<text x='714' y='508' font-size='13' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Fetch stage (IF)</text>
+<text x='714' y='529' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>instruction_memory_address =</text>
+<text x='714' y='547' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  selected_warp_program_counter</text>
+<text x='714' y='565' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  (combinational)</text>
+<text x='714' y='583' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'></text>
+<text x='714' y='601' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_* outputs are registered</text>
+<text x='714' y='619' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>1 cycle later to line up with the</text>
+<text x='714' y='637' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>synchronous instruction_memory</text>
+<text x='714' y='655' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>read (fetch_instruction_valid,</text>
+<text x='714' y='673' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>warp_id, program_counter,</text>
+<text x='714' y='691' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>active_lane_mask, instruction)</text>
+<rect x='1360' y='430' width='540' height='660' rx='10' fill='#e9f6ec' stroke='#1b7837' stroke-width='3'/>
+<text x='1374' y='458' font-size='20' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">decode_unit</text>
+<text x='1374' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_decode  [clk/rst]  (ID stage)</text>
+<text x='1374' y='508' font-size='13' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Instruction fields</text>
+<text x='1374' y='529' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>opcode[31:26] rs[25:21] rt[20:16]</text>
+<text x='1374' y='547' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>rd[15:11] imm[15:0] (sign-extended)</text>
+<text x='1374' y='565' font-size='13' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Control table</text>
+<text x='1374' y='586' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ALU_R : rd dest, rs+rt src</text>
+<text x='1374' y='604' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ALU_I : rt dest, rs src, imm</text>
+<text x='1374' y='622' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>LOAD  : rt dest, rs base, imm, mem read</text>
+<text x='1374' y='640' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>STORE : rt src, rs base, imm, mem write</text>
+<text x='1374' y='658' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>BEQ/BNE: rs,rt src, branch, no dest</text>
+<text x='1374' y='676' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>EXIT  : exit_instruction</text>
+<text x='1374' y='694' font-size='13' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Hazard interplay</text>
+<text x='1374' y='715' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>checks scoreboard (check_*) with rs_used/rt_used</text>
+<text x='1374' y='733' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>sets pending dest (set_*) when issuing</text>
+<text x='1374' y='751' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>held while register_dependency_hazard_detected</text>
+<text x='1374' y='769' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>raises branch_stall / exit_stall requests</text>
+<text x='1374' y='787' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_* outputs are registered (ID/EX)</text>
+<rect x='2200' y='430' width='800' height='660' rx='10' fill='#f3ebf8' stroke='#8e44ad' stroke-width='3'/>
+<text x='2214' y='458' font-size='20' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">execute_stage</text>
+<text x='2214' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_execute  [clk/rst]  (EX stage, outputs registered -&gt; EX/MEM)</text>
+<text x='2214' y='508' font-size='13' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Per-lane address generation (generate)</text>
+<text x='2214' y='529' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_address[i] = source_register_1_data[i] + immediate</text>
+<text x='2214' y='547' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_store_data[i] = source_register_2_data[i]</text>
+<text x='2214' y='565' font-size='13' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Branch logic</text>
+<text x='2214' y='586' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_branch_target_program_counter = PC + imm[PC_WIDTH-1:0]</text>
+<text x='2214' y='604' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_taken_comb: BEQ -&gt; all active lanes src1==src2</text>
+<text x='2214' y='622' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>                   BNE -&gt; all active lanes src1!=src2 (execute_branch_not_equal)</text>
+<text x='2214' y='640' font-size='13' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">ALU result -&gt; memory_alu_result[]</text>
+<rect x='2230' y='700' width='740' height='370' rx='8' fill='#fbf7fe' stroke='#8e44ad' stroke-width='2.5'/>
+<text x='2244' y='724' font-size='15' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">vector_alu  (u_vector_alu)   params WARP_SIZE, LANE_WIDTH</text>
+<text x='2244' y='744' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>in: operand_a&lt;=source_register_1_data[]  operand_b&lt;=source_register_2_data[]  immediate_operand&lt;=execute_immediate_value</text>
+<text x='2244' y='760' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>    use_immediate_operand&lt;=execute_uses_immediate_operand  alu_operation&lt;=execute_alu_operation  active_lane_mask&lt;=execute_active_lane_mask</text>
+<text x='2244' y='776' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>out: result[]  -&gt;  alu_result -&gt; memory_alu_result[]   (inactive lanes forced to 0)</text>
+<rect x='2244' y='800' width='166' height='250' rx='6' fill='white' stroke='#8e44ad' stroke-width='2'/>
+<text x='2252' y='822' font-size='14' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">lane_alu[0]</text>
+<text x='2252' y='840' font-size='11' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_lane_alu</text>
+<text x='2252' y='868' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_a[i]</text>
+<text x='2252' y='885' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_b[i]</text>
+<text x='2252' y='902' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>immediate_operand</text>
+<text x='2252' y='919' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>use_immediate_operand</text>
+<text x='2252' y='936' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>alu_operation</text>
+<text x='2252' y='953' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>second_operand =</text>
+<text x='2252' y='970' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  use_imm ? imm : b</text>
+<text x='2252' y='987' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ADD SUB AND OR XOR</text>
+<text x='2252' y='1004' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>SLT (signed)</text>
+<text x='2252' y='1021' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>-&gt; result[i]</text>
+<rect x='2252' y='1030' width='150' height='14' fill='#eddcf6'/>
+<text x='2256' y='1041' font-size='10' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by active mask</text>
+<rect x='2422' y='800' width='166' height='250' rx='6' fill='white' stroke='#8e44ad' stroke-width='2'/>
+<text x='2430' y='822' font-size='14' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">lane_alu[1]</text>
+<text x='2430' y='840' font-size='11' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_lane_alu</text>
+<text x='2430' y='868' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_a[i]</text>
+<text x='2430' y='885' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_b[i]</text>
+<text x='2430' y='902' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>immediate_operand</text>
+<text x='2430' y='919' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>use_immediate_operand</text>
+<text x='2430' y='936' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>alu_operation</text>
+<text x='2430' y='953' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>second_operand =</text>
+<text x='2430' y='970' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  use_imm ? imm : b</text>
+<text x='2430' y='987' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ADD SUB AND OR XOR</text>
+<text x='2430' y='1004' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>SLT (signed)</text>
+<text x='2430' y='1021' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>-&gt; result[i]</text>
+<rect x='2430' y='1030' width='150' height='14' fill='#eddcf6'/>
+<text x='2434' y='1041' font-size='10' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by active mask</text>
+<rect x='2600' y='800' width='166' height='250' rx='6' fill='white' stroke='#8e44ad' stroke-width='2'/>
+<text x='2608' y='822' font-size='14' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">lane_alu[2]</text>
+<text x='2608' y='840' font-size='11' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_lane_alu</text>
+<text x='2608' y='868' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_a[i]</text>
+<text x='2608' y='885' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_b[i]</text>
+<text x='2608' y='902' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>immediate_operand</text>
+<text x='2608' y='919' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>use_immediate_operand</text>
+<text x='2608' y='936' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>alu_operation</text>
+<text x='2608' y='953' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>second_operand =</text>
+<text x='2608' y='970' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  use_imm ? imm : b</text>
+<text x='2608' y='987' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ADD SUB AND OR XOR</text>
+<text x='2608' y='1004' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>SLT (signed)</text>
+<text x='2608' y='1021' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>-&gt; result[i]</text>
+<rect x='2608' y='1030' width='150' height='14' fill='#eddcf6'/>
+<text x='2612' y='1041' font-size='10' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by active mask</text>
+<rect x='2778' y='800' width='166' height='250' rx='6' fill='white' stroke='#8e44ad' stroke-width='2'/>
+<text x='2786' y='822' font-size='14' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">lane_alu[3]</text>
+<text x='2786' y='840' font-size='11' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_lane_alu</text>
+<text x='2786' y='868' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_a[i]</text>
+<text x='2786' y='885' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>operand_b[i]</text>
+<text x='2786' y='902' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>immediate_operand</text>
+<text x='2786' y='919' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>use_immediate_operand</text>
+<text x='2786' y='936' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>alu_operation</text>
+<text x='2786' y='953' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>second_operand =</text>
+<text x='2786' y='970' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  use_imm ? imm : b</text>
+<text x='2786' y='987' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>ADD SUB AND OR XOR</text>
+<text x='2786' y='1004' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>SLT (signed)</text>
+<text x='2786' y='1021' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>-&gt; result[i]</text>
+<rect x='2786' y='1030' width='150' height='14' fill='#eddcf6'/>
+<text x='2790' y='1041' font-size='10' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by active mask</text>
+<rect x='300' y='1420' width='760' height='400' rx='10' fill='#fff3f3' stroke='#c0392b' stroke-width='3'/>
+<text x='314' y='1448' font-size='20' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">compute_unit stall arbitration</text>
+<text x='314' y='1468' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>combinational logic in compute_unit.sv</text>
+<text x='314' y='1498' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Inputs</text>
+<text x='314' y='1519' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_dependency_hazard_detected  (from scoreboard)</text>
+<text x='314' y='1537' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_stall_requested/_warp_id/_program_counter (from decode)</text>
+<text x='314' y='1555' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_stall_requested/_warp_id/_program_counter  (from decode)</text>
+<text x='314' y='1573' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Priority merge (hazard / branch / exit)</text>
+<text x='314' y='1594' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_requested        = hazard | branch | exit</text>
+<text x='314' y='1612' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_warp_id          = warp of the winning source</text>
+<text x='314' y='1630' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_program_counter  = PC of the blocked instruction</text>
+<text x='314' y='1648' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_is_branch, stall_is_exit = source flags</text>
+<text x='314' y='1666' font-size='13' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Outputs -&gt; warp_manager</text>
+<rect x='1360' y='1420' width='540' height='400' rx='10' fill='#e6f5f5' stroke='#0e7c7b' stroke-width='3'/>
+<text x='1374' y='1448' font-size='20' fill='#0e7c7b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">scoreboard</text>
+<text x='1374' y='1468' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_scoreboard  [clk/rst]</text>
+<text x='1374' y='1498' font-size='13' fill='#0e7c7b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">pending_writes[warp][vreg] counters</text>
+<text x='1374' y='1519' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>set_* (decode) increments dest pending count</text>
+<text x='1374' y='1537' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>clear_* (writeback) decrements it</text>
+<text x='1374' y='1555' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>RAW check on rs/rt when rs_used / rt_used</text>
+<text x='1374' y='1573' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>hazard =&gt; register_dependency_hazard_detected</text>
+<text x='1374' y='1591' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>blocked_* latches per warp (valid, src1, src2,</text>
+<text x='1374' y='1609' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>rs_used, rt_used) so blocked warp is re-checked</text>
+<text x='1374' y='1627' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>dependency_resolved_for_warp[w] when it clears</text>
+<text x='1374' y='1645' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>only the affected warp stalls</text>
+<rect x='2200' y='1420' width='800' height='400' rx='10' fill='#eeeeee' stroke='#555555' stroke-width='3'/>
+<text x='2214' y='1448' font-size='20' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">vector_register_file</text>
+<text x='2214' y='1468' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_register_file  [clk/rst]  params WARP_SIZE NUM_WARPS NUM_VREGS LANE_WIDTH</text>
+<text x='2214' y='1498' font-size='13' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Storage: registers[warp][lane][vreg]  (4 x 4 x 32 x 32b)</text>
+<text x='2214' y='1519' font-size='13' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Read ports (2, combinational, per lane)</text>
+<text x='2214' y='1540' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>source_register_1_data[lane] = reg[read_warp_id][lane][source_register_1_id]</text>
+<text x='2214' y='1558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>source_register_2_data[lane] = reg[read_warp_id][lane][source_register_2_id]</text>
+<text x='2214' y='1576' font-size='13' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Write port (masked per lane)</text>
+<text x='2214' y='1597' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>if write_valid: for each lane with write_mask[lane]:</text>
+<text x='2214' y='1615' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>   reg[write_warp_id][lane][destination_register_id] &lt;= write_data[lane]</text>
+<text x='2214' y='1633' font-size='13' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Special regs</text>
+<text x='2214' y='1654' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>R0 (REG_ZERO) hard-wired 0   R1 (REG_TID) = warp*WARP_SIZE+lane</text>
+<rect x='3360' y='430' width='400' height='660' rx='10' fill='#fdf0e3' stroke='#d35400' stroke-width='3'/>
+<text x='3374' y='458' font-size='20' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">mem_stage</text>
+<text x='3374' y='478' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_memory_stage  [clk/rst]  (MEM stage)</text>
+<text x='3374' y='508' font-size='13' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">To data_memory (combinational)</text>
+<text x='3374' y='529' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>address / store_data / active_mask /</text>
+<text x='3374' y='547' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>read_en / write_en pass through,</text>
+<text x='3374' y='565' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>gated by memory_instruction_valid</text>
+<text x='3374' y='583' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>(mem_stage ports data_memory_*,</text>
+<text x='3374' y='601' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>wired to compute_unit memory_* ports)</text>
+<text x='3374' y='619' font-size='13' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">From data_memory</text>
+<text x='3374' y='640' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_load_data[] (async read)</text>
+<text x='3374' y='658' font-size='13' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">To writeback (registered, MEM/WB)</text>
+<text x='3374' y='679' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_result_data[] =</text>
+<text x='3374' y='697' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  memory_read_enable ? load_data</text>
+<text x='3374' y='715' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>                     : alu_result</text>
+<text x='3374' y='733' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch/exit/dest/warp info forwarded</text>
+<rect x='3360' y='1420' width='400' height='400' rx='10' fill='#fdf6dc' stroke='#b8860b' stroke-width='3'/>
+<text x='3374' y='1448' font-size='20' fill='#b8860b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">writeback_stage</text>
+<text x='3374' y='1468' font-size='12' fill='#555' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>u_writeback  (WB, combinational)</text>
+<text x='3374' y='1498' font-size='13' fill='#b8860b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">Fan-out of MEM/WB registers</text>
+<text x='3374' y='1519' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_* -&gt; register file</text>
+<text x='3374' y='1537' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  data = writeback_result_data</text>
+<text x='3374' y='1555' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  mask = writeback_active_lane_mask</text>
+<text x='3374' y='1573' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_clear_* -&gt; scoreboard</text>
+<text x='3374' y='1591' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_commit, branch_taken,</text>
+<text x='3374' y='1609' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  branch_target_program_counter -&gt; WM</text>
+<text x='3374' y='1627' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_commit, exit_warp_id -&gt; WM</text>
+<polyline points='440,470 700,470' fill='none' stroke='#c0392b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahc0392b)'/>
+<rect x='448' y='490' width='244' height='102' rx='6' fill='white' stroke='#c0392b' stroke-width='1.5'/>
+<text x='456' y='507' font-size='11' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">WM -&gt; IFU</text>
+<text x='456' y='524' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>instruction_issue_valid</text>
+<text x='456' y='541' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>selected_warp_id</text>
+<text x='456' y='558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>selected_warp_program_counter</text>
+<text x='456' y='575' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>selected_warp_active_lane_mask</text>
+<polyline points='760,430 760,310' fill='none' stroke='#2c7fb8' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah2c7fb8)'/>
+<rect x='440' y='262' width='300' height='51' rx='6' fill='white' stroke='#2c7fb8' stroke-width='1.5'/>
+<text x='448' y='279' font-size='11' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">IFU -&gt; instruction_memory</text>
+<text x='448' y='296' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>instruction_memory_address[PC_WIDTH-1:0]</text>
+<polyline points='1000,310 1000,430' fill='none' stroke='#2c7fb8' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah2c7fb8)'/>
+<rect x='1010' y='350' width='320' height='51' rx='6' fill='white' stroke='#2c7fb8' stroke-width='1.5'/>
+<text x='1018' y='367' font-size='11' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">instruction_memory -&gt; IFU</text>
+<text x='1018' y='384' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>instruction_memory_data[INST_WIDTH-1:0]</text>
+<polyline points='1060,470 1360,470' fill='none' stroke='#2c7fb8' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah2c7fb8)'/>
+<rect x='1070' y='490' width='282' height='119' rx='6' fill='white' stroke='#2c7fb8' stroke-width='1.5'/>
+<text x='1078' y='507' font-size='11' fill='#2c7fb8' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">IFU -&gt; decode_unit</text>
+<text x='1078' y='524' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_instruction_valid</text>
+<text x='1078' y='541' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_warp_id</text>
+<text x='1078' y='558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_program_counter</text>
+<text x='1078' y='575' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_active_lane_mask</text>
+<text x='1078' y='592' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>fetch_instruction</text>
+<polyline points='1900,470 2200,470' fill='none' stroke='#1b7837' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah1b7837)'/>
+<rect x='1910' y='490' width='282' height='306' rx='6' fill='white' stroke='#1b7837' stroke-width='1.5'/>
+<text x='1918' y='507' font-size='11' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">decode_unit -&gt; execute_stage (ID/EX)</text>
+<text x='1918' y='524' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_instruction_valid</text>
+<text x='1918' y='541' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_warp_id</text>
+<text x='1918' y='558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_program_counter</text>
+<text x='1918' y='575' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_active_lane_mask</text>
+<text x='1918' y='592' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_source_register_1_id</text>
+<text x='1918' y='609' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_source_register_2_id</text>
+<text x='1918' y='626' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_destination_register_id</text>
+<text x='1918' y='643' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_immediate_value</text>
+<text x='1918' y='660' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_alu_operation</text>
+<text x='1918' y='677' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_uses_immediate_operand</text>
+<text x='1918' y='694' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_register_write_enable</text>
+<text x='1918' y='711' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_memory_read_enable</text>
+<text x='1918' y='728' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_memory_write_enable</text>
+<text x='1918' y='745' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_branch_instruction</text>
+<text x='1918' y='762' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_branch_not_equal</text>
+<text x='1918' y='779' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_exit_instruction</text>
+<polyline points='1900,1060 1925,1060 1925,1600 2200,1600' fill='none' stroke='#1b7837' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah1b7837)'/>
+<rect x='1935' y='1130' width='255' height='136' rx='6' fill='white' stroke='#1b7837' stroke-width='1.5'/>
+<text x='1943' y='1147' font-size='11' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">decode -&gt; register_file (read)</text>
+<text x='1943' y='1164' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_warp_id</text>
+<text x='1943' y='1181' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  -&gt; read_warp_id</text>
+<text x='1943' y='1198' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_source_register_1_id</text>
+<text x='1943' y='1215' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  -&gt; source_register_1_id</text>
+<text x='1943' y='1232' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute_source_register_2_id</text>
+<text x='1943' y='1249' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>  -&gt; source_register_2_id</text>
+<polyline points='2420,1420 2420,1090' fill='none' stroke='#555555' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah555555)'/>
+<rect x='2435' y='1140' width='320' height='68' rx='6' fill='white' stroke='#555555' stroke-width='1.5'/>
+<text x='2443' y='1157' font-size='11' fill='#555555' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">vector_register_file -&gt; execute_stage</text>
+<text x='2443' y='1174' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>source_register_1_data[0:WARP_SIZE-1]</text>
+<text x='2443' y='1191' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>source_register_2_data[0:WARP_SIZE-1]</text>
+<polyline points='3000,470 3360,470' fill='none' stroke='#8e44ad' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah8e44ad)'/>
+<rect x='3010' y='490' width='340' height='289' rx='6' fill='white' stroke='#8e44ad' stroke-width='1.5'/>
+<text x='3018' y='507' font-size='11' fill='#8e44ad' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">execute_stage -&gt; mem_stage (EX/MEM)</text>
+<text x='3018' y='524' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_instruction_valid</text>
+<text x='3018' y='541' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_warp_id</text>
+<text x='3018' y='558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_program_counter</text>
+<text x='3018' y='575' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_active_lane_mask</text>
+<text x='3018' y='592' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_alu_result[]</text>
+<text x='3018' y='609' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_address[]</text>
+<text x='3018' y='626' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_store_data[]</text>
+<text x='3018' y='643' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_destination_register_id</text>
+<text x='3018' y='660' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_register_write_enable</text>
+<text x='3018' y='677' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_read_enable</text>
+<text x='3018' y='694' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_write_enable</text>
+<text x='3018' y='711' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_branch_instruction</text>
+<text x='3018' y='728' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_branch_taken</text>
+<text x='3018' y='745' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_branch_target_program_counter</text>
+<text x='3018' y='762' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_exit_instruction</text>
+<polyline points='3760,470 4100,470' fill='none' stroke='#d35400' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahd35400)'/>
+<rect x='3800' y='490' width='290' height='119' rx='6' fill='white' stroke='#d35400' stroke-width='1.5'/>
+<text x='3808' y='507' font-size='11' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">mem_stage -&gt; data_memory</text>
+<text x='3808' y='524' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_read_enable</text>
+<text x='3808' y='541' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_write_enable</text>
+<text x='3808' y='558' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_active_lane_mask</text>
+<text x='3808' y='575' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_address[]</text>
+<text x='3808' y='592' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_store_data[]</text>
+<polyline points='4100,700 3760,700' fill='none' stroke='#d35400' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahd35400)'/>
+<rect x='3800' y='720' width='290' height='51' rx='6' fill='white' stroke='#d35400' stroke-width='1.5'/>
+<text x='3808' y='737' font-size='11' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">data_memory -&gt; mem_stage</text>
+<text x='3808' y='754' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory_load_data[]</text>
+<polyline points='3700,1090 3700,1420' fill='none' stroke='#d35400' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahd35400)'/>
+<rect x='3370' y='1110' width='320' height='204' rx='6' fill='white' stroke='#d35400' stroke-width='1.5'/>
+<text x='3378' y='1127' font-size='11' fill='#d35400' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">mem_stage -&gt; writeback (MEM/WB)</text>
+<text x='3378' y='1144' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_instruction_valid</text>
+<text x='3378' y='1161' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_warp_id</text>
+<text x='3378' y='1178' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_active_lane_mask</text>
+<text x='3378' y='1195' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_result_data[]</text>
+<text x='3378' y='1212' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_destination_register_id</text>
+<text x='3378' y='1229' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_register_write_enable</text>
+<text x='3378' y='1246' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_branch_instruction</text>
+<text x='3378' y='1263' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_branch_taken</text>
+<text x='3378' y='1280' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_branch_target_program_counter</text>
+<text x='3378' y='1297' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback_exit_instruction</text>
+<polyline points='3360,1500 3000,1500' fill='none' stroke='#b8860b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahb8860b)'/>
+<rect x='3010' y='1520' width='340' height='119' rx='6' fill='white' stroke='#b8860b' stroke-width='1.5'/>
+<text x='3018' y='1537' font-size='11' fill='#b8860b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">writeback -&gt; register_file (write)</text>
+<text x='3018' y='1554' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_valid</text>
+<text x='3018' y='1571' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_warp_id</text>
+<text x='3018' y='1588' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_destination_register_id</text>
+<text x='3018' y='1605' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_data[]</text>
+<text x='3018' y='1622' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_file_write_mask</text>
+<polyline points='3560,1820 3560,1900 1600,1900 1600,1820' fill='none' stroke='#b8860b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahb8860b)'/>
+<rect x='2250' y='1912' width='420' height='85' rx='6' fill='white' stroke='#b8860b' stroke-width='1.5'/>
+<text x='2258' y='1929' font-size='11' fill='#b8860b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">writeback -&gt; scoreboard (clear)</text>
+<text x='2258' y='1946' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_clear_valid</text>
+<text x='2258' y='1963' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_clear_warp_id</text>
+<text x='2258' y='1980' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_clear_destination_register_id</text>
+<polyline points='3620,1820 3620,2040 110,2040 110,1090' fill='none' stroke='#b8860b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahb8860b)'/>
+<rect x='1300' y='2052' width='470' height='136' rx='6' fill='white' stroke='#b8860b' stroke-width='1.5'/>
+<text x='1308' y='2069' font-size='11' fill='#b8860b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">writeback -&gt; warp_manager (branch/exit commit)</text>
+<text x='1308' y='2086' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_commit</text>
+<text x='1308' y='2103' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_warp_id</text>
+<text x='1308' y='2120' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_taken</text>
+<text x='1308' y='2137' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_target_program_counter</text>
+<text x='1308' y='2154' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_commit</text>
+<text x='1308' y='2171' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_warp_id</text>
+<polyline points='1450,1090 1450,1420' fill='none' stroke='#1b7837' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah1b7837)'/>
+<rect x='1460' y='1130' width='290' height='187' rx='6' fill='white' stroke='#1b7837' stroke-width='1.5'/>
+<text x='1468' y='1147' font-size='11' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">decode_unit -&gt; scoreboard</text>
+<text x='1468' y='1164' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_set_valid</text>
+<text x='1468' y='1181' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_set_warp_id</text>
+<text x='1468' y='1198' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_set_destination_register_id</text>
+<text x='1468' y='1215' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_valid</text>
+<text x='1468' y='1232' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_warp_id</text>
+<text x='1468' y='1249' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_source_register_1_id</text>
+<text x='1468' y='1266' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_source_register_2_id</text>
+<text x='1468' y='1283' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_rs_used</text>
+<text x='1468' y='1300' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard_check_rt_used</text>
+<polyline points='1850,1420 1850,1090' fill='none' stroke='#0e7c7b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah0e7c7b)'/>
+<text x='1842' y='1400' font-size='11' fill='#0e7c7b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' transform='rotate(-90 1842 1400)'>register_dependency_hazard_detected  (scoreboard -&gt; decode_unit)</text>
+<polyline points='1360,1650 1060,1650' fill='none' stroke='#0e7c7b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah0e7c7b)'/>
+<rect x='1072' y='1662' width='282' height='51' rx='6' fill='white' stroke='#0e7c7b' stroke-width='1.5'/>
+<text x='1080' y='1679' font-size='11' fill='#0e7c7b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">scoreboard -&gt; stall logic</text>
+<text x='1080' y='1696' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register_dependency_hazard_detected</text>
+<polyline points='1360,1030 1120,1030 1120,1540 1060,1540' fill='none' stroke='#1b7837' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah1b7837)'/>
+<rect x='795' y='1130' width='315' height='136' rx='6' fill='white' stroke='#1b7837' stroke-width='1.5'/>
+<text x='803' y='1147' font-size='11' fill='#1b7837' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">decode_unit -&gt; stall logic</text>
+<text x='803' y='1164' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_stall_requested</text>
+<text x='803' y='1181' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_stall_warp_id</text>
+<text x='803' y='1198' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>branch_stall_program_counter</text>
+<text x='803' y='1215' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_stall_requested</text>
+<text x='803' y='1232' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_stall_warp_id</text>
+<text x='803' y='1249' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>exit_stall_program_counter</text>
+<polyline points='380,1420 380,1090' fill='none' stroke='#c0392b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ahc0392b)'/>
+<rect x='395' y='1150' width='300' height='119' rx='6' fill='white' stroke='#c0392b' stroke-width='1.5'/>
+<text x='403' y='1167' font-size='11' fill='#c0392b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">stall logic -&gt; warp_manager</text>
+<text x='403' y='1184' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_requested</text>
+<text x='403' y='1201' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_warp_id</text>
+<text x='403' y='1218' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_program_counter</text>
+<text x='403' y='1235' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_is_branch</text>
+<text x='403' y='1252' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>stall_is_exit</text>
+<polyline points='1420,1820 1420,1860 200,1860 200,1090' fill='none' stroke='#0e7c7b' stroke-width='6' stroke-linejoin='round' marker-end='url(#ah0e7c7b)'/>
+<rect x='480' y='1868' width='340' height='51' rx='6' fill='white' stroke='#0e7c7b' stroke-width='1.5'/>
+<text x='488' y='1885' font-size='11' fill='#0e7c7b' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">scoreboard -&gt; warp_manager</text>
+<text x='488' y='1902' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>dependency_resolved_for_warp[NUM_WARPS]</text>
+<text x='60' y='1110' font-size='1' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'></text>
+<rect x='3800' y='60' width='650' height='250' fill='#fafafa' stroke='#888'/>
+<text x='3814' y='84' font-size='14' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">LEGEND</text>
+<line x1='3814' y1='102' x2='3864' y2='102' stroke='#c0392b' stroke-width='6'/>
+<text x='3876' y='106' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>warp_manager / stall control</text>
+<line x1='3814' y1='122' x2='3864' y2='122' stroke='#2c7fb8' stroke-width='6'/>
+<text x='3876' y='126' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>instruction fetch (IF)</text>
+<line x1='3814' y1='142' x2='3864' y2='142' stroke='#1b7837' stroke-width='6'/>
+<text x='3876' y='146' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>decode (ID)</text>
+<line x1='3814' y1='162' x2='3864' y2='162' stroke='#8e44ad' stroke-width='6'/>
+<text x='3876' y='166' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>execute (EX)</text>
+<line x1='3814' y1='182' x2='3864' y2='182' stroke='#d35400' stroke-width='6'/>
+<text x='3876' y='186' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>memory (MEM)</text>
+<line x1='3814' y1='202' x2='3864' y2='202' stroke='#b8860b' stroke-width='6'/>
+<text x='3876' y='206' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>writeback (WB) feedback</text>
+<line x1='3814' y1='222' x2='3864' y2='222' stroke='#0e7c7b' stroke-width='6'/>
+<text x='3876' y='226' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>scoreboard hazard signals</text>
+<line x1='3814' y1='242' x2='3864' y2='242' stroke='#555555' stroke-width='6'/>
+<text x='3876' y='246' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>register file read data</text>
+<text x='3814' y='278' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>Thick arrow = bus of signals listed in the attached box (arrow head = destination).</text>
+<text x='3814' y='296' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>Solid frame = RTL module; dashed frame = compute_unit boundary.</text>
+<line x1='40' y1='190' x2='300' y2='190' stroke='#111' stroke-width='3' marker-end='url(#ah555555)'/>
+<text x='45' y='182' font-size='13' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace' font-weight="bold">clk, rst (top.sv inputs)</text>
+<rect x='310' y='170' width='340' height='40' fill='white' stroke='#111'/>
+<text x='320' y='187' font-size='12' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>-&gt; all sequential modules</text>
+<text x='320' y='203' font-size='11' fill='#1a1a1a' text-anchor='start' font-family='DejaVu Sans Mono,monospace'>(instruction_memory, data_memory, CU)</text></svg>
